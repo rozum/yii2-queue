@@ -104,4 +104,8 @@ Yii::$app->queue->isReserved($id);
 Yii::$app->queue->isDone($id);
 ```
 
+
+
 For more details see [the guide](docs/guide/README.md).
+
+
